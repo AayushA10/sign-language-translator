@@ -1,0 +1,14 @@
+# Bytecode
+__pycache__/
+*.pyc
+
+# OS stuff
+.DS_Store
+
+# Envs & models
+venv/
+*.h5
+*.npy
+*.zip
+data/gesture_videos/asl_alphabet_train/
+data/processed/*.csv
